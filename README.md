@@ -1,27 +1,40 @@
-# ⚡ Smart Home Energy Saver
+# Smart Home Energy Saver
 
-AI-powered energy management system for tracking, predicting, and optimizing home electricity consumption.
+An AI-powered web application designed to optimize household energy consumption and reduce electricity costs through intelligent monitoring, prediction, and analytics.
 
----
+## Features
 
-## 🚀 Quick Start
+- Appliance Energy Monitoring
+- Electricity Cost Estimation
+- Energy Consumption Prediction
+- Solar Panel ROI Calculation
+- AI-Based Energy Recommendations
+- What-If Simulation for Usage Scenarios
+- Interactive Dashboard
 
-### **Run the App:**
-```bash
-# Method 1: Double-click
-RUN_APP.bat
+## Tech Stack
 
-# Method 2: Command line
-python -m streamlit run smart_ai_app.py --server.port 8502
-```
+- Python
+- Streamlit
+- Scikit-learn
+- Prophet
+- Pandas
+- NumPy
 
-### **First Time Setup:**
-```bash
-# Install dependencies
-pip install -r requirements.txt
-```
+## Problem Statement
 
----
+Many households lack awareness of their energy consumption patterns, leading to inefficient usage and higher electricity bills. This project provides intelligent analysis, prediction, and recommendations to help users reduce costs and make informed energy decisions.
+
+## Future Scope
+
+- IoT Device Integration
+- Real-Time Smart Meter Monitoring
+- Mobile Application Support
+- Advanced AI Recommendations
+
+## Team Project
+
+Developed as part of an academic project in the AIML Department.
 
 ## 📁 Project Structure
 
